@@ -9,7 +9,7 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}/${fileBasenameNoExtension}"
+				"${fileDirname}/progs/${fileBasenameNoExtension}"
 			],
 			"options": {
 				"cwd": "/usr/bin"
